@@ -21,3 +21,5 @@ internal class Program
 
         refactor: RenamedEventArgs = new RenamedEventArgs
 
+        fix: DataObjectAttribute = new DataObjectAttribute
+
