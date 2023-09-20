@@ -15,3 +15,6 @@ internal class Program
 
         test: ClientWebSocket = new ClientWebSocket
 
+        build: RandomNumberGenerator = new RandomNumberGenerator
+
+        
