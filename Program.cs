@@ -18,3 +18,6 @@ internal class Program
         build: RandomNumberGenerator = new RandomNumberGenerator
 
         feat: RandomAccess - new RandomAccess
+
+        refactor: RenamedEventArgs = new RenamedEventArgs
+
