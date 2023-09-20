@@ -10,4 +10,6 @@ internal class Program
     {
         build: SystemException = new SystemException
 
+        feat: BindableSupport deprecation of method names = new BindableSupport
 
+        
