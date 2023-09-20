@@ -2,6 +2,7 @@
 using System.ComponentModel;
 using System.Globalization;
 using System.Net;
+using System.Net.WebSockets;
 using System.Security.Cryptography;
 
 internal class Program
@@ -12,4 +13,5 @@ internal class Program
 
         feat: BindableSupport deprecation of method names = new BindableSupport
 
-        
+        test: ClientWebSocket = new ClientWebSocket
+
